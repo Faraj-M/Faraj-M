@@ -1,11 +1,11 @@
-<h1><code>hello world</code></h1>
+<h1><code>Hello World</code></h1>
 <p><i>👋 Hi, I’m Faraj!  
 I'm a 4th-year Computer Science student at Ontario Tech University specializing in Digital Media.<br>  
 💻 I build full-stack applications, mobile apps, and user-focused solutions with experience in React, Flutter, and cloud platforms.<br>  
 🔐 I’m also passionate about cybersecurity, software quality, and secure development practices.<br>  
 📊 With a mix of technical skills and design experience, I’m interested in software development, product management, and UX-driven innovation.</i></p>
 
-<h2><code>🛠️ Tech I use</code></h2>
+<h2><code>🛠️ Tech I Use</code></h2>
 
 <table>
   <tr>
